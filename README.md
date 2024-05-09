@@ -4,4 +4,5 @@ Implementing a multi-class classification problem on the State Farm Distracted D
 Homework 4.
 
 Part 1 has ~500k parameters
+
 Part 2 has ~ 10M parameters
